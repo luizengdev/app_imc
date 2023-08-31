@@ -37,8 +37,10 @@ A aplicação inclui testes unitários para verificar a lógica do bloc e a inte
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar este projeto.
 
 ## Imagens
-![image](https://github.com/luizengdev/app_imc/assets/47059188/fe6c7dfd-6446-4f7e-94f1-e19277021b82)
-![image](https://github.com/luizengdev/app_imc/assets/47059188/d2518666-bb25-437d-9923-747941cc42d5)
+<p float="left" align="center">
+<img src="https://github.com/luizengdev/app_imc/assets/47059188/fe6c7dfd-6446-4f7e-94f1-e19277021b82"/>
+<img src="https://github.com/luizengdev/app_imc/assets/47059188/d2518666-bb25-437d-9923-747941cc42d5"/>
+</p>
 
 ## Getting Started
 
